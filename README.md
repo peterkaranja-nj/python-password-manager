@@ -17,7 +17,7 @@ Features
 - Count stored passwords
 - Generate random passwords
 - Search for stored services
-- Logging of actions (log.txt)
+- Logging of actions
 - Persistent storage using a file
 
 
